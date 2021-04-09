@@ -1,7 +1,12 @@
 # Webdesign-made-simple
--How to run this ? : Just download the Ordner => click the Ordner "WEBDESIGN made simple" => click the file "index.html" -This is a Website for a fictive Webdesign compagny with the name "WEBDESIGN made simple" -Fully responsive Website for mobile device
+-How to run this ? : just click the following link https://lafric.github.io/Webdesign-made-simple/
+
+-This is a Website for a fictive Webdesign compagny with the name "WEBDESIGN made simple" -Fully responsive Website for mobile device
+
 -Develop without the use of tools like Bootstrap to optimize the Resposivity
+
 -All the page has been done with HTML and Method of the CSS for the Responsivity -This allows me to learn lot of things like "Grid - Systems which is used in bootstrap
+
 -Website-Konzept für „WEBDESIGN made simple!“ Generelles
 
 -klassische Navigationsleiste mit Logo und Navigationsliste zur Navigation über die Website
